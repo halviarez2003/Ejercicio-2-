@@ -1,0 +1,6 @@
+{
+  "name": "Optimizador de Portafolios (Markowitz)",
+  "description": "Aplicación analítica de optimización de portafolios de inversión bajo la Teoría Moderna de Portafolios de Markowitz: ingesta de precios de Cierre Ajustado, cálculo de retornos simples y acumulados, frontera eficiente, portafolios óptimos y exportación a Excel y PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
